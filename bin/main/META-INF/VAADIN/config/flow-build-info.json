@@ -1,0 +1,18 @@
+{
+  "productionMode" : false,
+  "eagerServerLoad" : false,
+  "npmFolder" : "/home/sohrab/5 Github/my-project",
+  "node.version" : "v22.21.1",
+  "node.download.root" : "https://nodejs.org/dist/",
+  "frontendFolder" : "/home/sohrab/5 Github/my-project/./src/main/frontend",
+  "connect.javaSourceFolder" : "/home/sohrab/5 Github/my-project/src/main/java",
+  "javaResourceFolder" : "/home/sohrab/5 Github/my-project/src/main/resources",
+  "connect.applicationProperties" : "/home/sohrab/5 Github/my-project/src/main/resources/application.properties",
+  "connect.openApiFile" : "/home/sohrab/5 Github/my-project/build/generated-resources/openapi.json",
+  "project.frontend.generated" : "/home/sohrab/5 Github/my-project/./src/main/frontend/generated",
+  "pnpm.enable" : false,
+  "bun.enable" : false,
+  "require.home.node" : false,
+  "build.folder" : "build",
+  "react.enable" : true
+}
